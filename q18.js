@@ -1,5 +1,6 @@
 "use strict";
 //seeing the world:Think of at least five places you,d like to visit
+Object.defineProperty(exports, "__esModule", { value: true });
 let places = ['germany', 'Turkey', 'Japan', 'Dubai', 'saudia Arabia', 'Egypt'];
 console.log('Original order:', places);
 console.log('Alphabetical order:', [...places].sort());

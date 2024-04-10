@@ -1,5 +1,6 @@
 "use strict";
 //Changing Guest List: One of your guests can't make it to the dinner, so you need to send out a new set of invitations with a replacement guest.
+Object.defineProperty(exports, "__esModule", { value: true });
 let guests = ['fatima', 'laraib', 'hassan', 'fateh'];
 let unableToattend = 'fatima';
 console.log(`${unableToattend}, can't make it to dinner.`);

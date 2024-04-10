@@ -1,4 +1,6 @@
 let newAliencolor = 'green';
+
+
 if (newAliencolor == 'green') {
     console.log('you earned 5 points.');
 } else if (newAliencolor == 'yellow ') {

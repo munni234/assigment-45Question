@@ -1,6 +1,7 @@
 "use strict";
 //case sensitive 
 //Equality with string
+Object.defineProperty(exports, "__esModule", { value: true });
 console.log('apple' == 'apple');
 console.log('apple' == 'Apple');
 console.log('hy how are u' == 'hy how are u');

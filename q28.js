@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let newAliencolor = 'green';
 if (newAliencolor == 'green') {
     console.log('you earned 5 points.');

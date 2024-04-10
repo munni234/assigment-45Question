@@ -1,5 +1,6 @@
 "use strict";
 //write a series of conditional test .Predict the the the result of each test 
+Object.defineProperty(exports, "__esModule", { value: true });
 let car = 'subaru';
 console.log("Is car == 'subaru' ? I predict True .");
 console.log(car == 'subaru');

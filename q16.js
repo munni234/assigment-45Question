@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let guessts = ['Bilawalbhutto', 'Asfabhutto', 'Asifalizardari', 'Atifaslam'];
 console.log('Great news ! I found a bigger dinner table.');
 guessts.unshift('mariyam');
