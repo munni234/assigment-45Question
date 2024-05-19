@@ -10,7 +10,6 @@ else
 {
     console.log('aliencolor is match');
 }
-(alienColor == 'yellow');
 {
     console.log('this is last chance');
 }

@@ -3,10 +3,11 @@
 let alienColor = 'green';
 if (alienColor == 'red') {
     console.log('The aliencolor doesnot  match');
-} else (alienColor == 'green'); {
-    console.log('aliencolor is match');
-} else  (alienColor == 'yellow'); {
-console.log('this is last chance');
+} else  (alienColor == 'green'); {
+    console.log('aliencolor is match')
+}   
+ {
+console.log('this is last chance')
 }
 
 
